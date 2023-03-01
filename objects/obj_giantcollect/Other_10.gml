@@ -21,6 +21,8 @@ if global.gameplay != 0
 	var _y = y - 48;
 	var _xstart = _x;
 	
+	global.combotime = 60
+	
 	for (var yy = 0; yy < 4; yy++)
 	{
 		for (var xx = 0; xx < 4; xx++)
