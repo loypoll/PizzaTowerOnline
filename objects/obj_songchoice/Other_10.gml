@@ -166,7 +166,7 @@ switch sel[0]
 			[mu_sewer2_pc, "Bite The Crust", "loypoll"],
 			[mu_warintro_pc, "Thousand March (Intro)", "loypoll"],
 			[mu_war_pc, "Thousand March", "loypoll", 5],
-			[mu_factory_pc, "Pizza Engineer", "loypoll"],
+			[mu_industrial_pc, "Pizza Engineer", "loypoll"],
 			[mu_factory_pc, "Peppino's Sauce Machine", "loypoll"],
 			[mu_mansion_pc, "Ground Bound", "loypoll"],
 			[mu_freezer_pc, "dont preheat your oven", "loypoll"],
