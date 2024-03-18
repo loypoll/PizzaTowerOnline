@@ -4,4 +4,4 @@ if !check_online()
 	exit;
 
 if check_bysync() == false
-	gms_instance_sync(id, is_onetime | isc_local);
+	gms_instance_sync(self, is_onetime | isc_local);
